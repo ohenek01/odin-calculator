@@ -1,7 +1,7 @@
 .container{
     background-color: rgb(117, 145, 158);
     width: 300px;
-    height: 550px;
+    height: 450px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -17,7 +17,10 @@
 }
 .display p{
     font-size: 20px;
-    margin: 70px 0px 0px 270px
+    font-weight: bolder;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 70px;
 }
 .row{
     display: flex;
