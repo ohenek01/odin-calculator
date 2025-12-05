@@ -76,7 +76,7 @@ const multiply = (num1, num2) => {
 }
 const divide = (num1, num2) => {
     result = num1 / num2;
-    return result.toFixed(3)
+    return result
 }
 
 
